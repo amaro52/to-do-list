@@ -1,5 +1,5 @@
 const config = {
-  PASSWORD: "Awe$0meAmo52",
+  PASSWORD: "xxxxxxxxxx",
 };
 
 export default config;
